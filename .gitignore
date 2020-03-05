@@ -3,7 +3,8 @@
 output/
 data/
 clues/
-vnm_rcp85/
+scripts/ala_data/
+scripts/regtrade/
 
 
 # R files #
